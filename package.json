@@ -1,7 +1,6 @@
 {
   "name": "bootstrap4",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,7 +13,16 @@
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
-    "jquery": "^3.2.1",
-    "popper.js": "^1.12.9"
-  }
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardoub/cursos-ricardo-sanches-bootstrap4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ricardoub/cursos-ricardo-sanches-bootstrap4/issues"
+  },
+  "homepage": "https://github.com/ricardoub/cursos-ricardo-sanches-bootstrap4#readme",
+  "description": ""
 }
